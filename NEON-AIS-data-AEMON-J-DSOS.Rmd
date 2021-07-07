@@ -4,9 +4,9 @@ title: "Download and work with NEON Aquatic Instrument Data"
 description: "Tutorial for downloading NEON AIS data using the neonUtilities package and then exploring and understanding the downloaded data"
 dateCreated: 2021-04-05
 authors: Bobby Hensley, Guy Litt, Megan Jones, Nora Catolico, Kelly Hondula
-contributors: 
-estimatedTime: 3 hours
-packagesLibraries: neonUtilities, ggplot2
+contributors: Kaelin M. Cawley
+estimatedTime: 2 hours
+packagesLibraries: neonUtilities, ggplot2, lubridate, plyr
 topics: data-management, rep-sci
 languageTool: R, API
 code1: R/download-ais-data/download-NEON-AIS-data.R

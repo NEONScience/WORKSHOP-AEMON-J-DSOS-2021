@@ -1,4 +1,4 @@
-AEMON-J/DSOS Big (Ecological) Data Day Repo
+AEMON-J/DSOS: Big (Ecological) Data Day Repo
 ================
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -8,6 +8,21 @@ AEMON-J/DSOS Big (Ecological) Data Day Repo
 This repository contains the code that will be used for the AEMON-J/DSOS
 Big (Ecological) Data Day
 (<https://aquaticdatasciopensci.github.io/day2-bigdata/>).
+
+<!-- ****** Usage ****** -->
+
+## Preparation for the workshop
+
+1.  Optional, but very helpful\! Create an API token using the
+    instructions in the following tutorial, which shouldn’t take more
+    than 10 minutes
+    (<https://www.neonscience.org/resources/learning-hub/tutorials/neon-api-tokens-tutorial>)
+2.  Ensure that you have R version \>3.4 installed on your computer.
+3.  The tutorial leaders will use RStudio, which is also recommended,
+    but optional.
+4.  Install required packages: neonUtilities, ggplot2, lubridate, plyr.
+    Feel free to use lines 75-78 of the NEON-AIS-data-AEMON-J-DSOS.Rmd
+    script in this repository.
 
 <!-- ****** Usage ****** -->
 
